@@ -1,0 +1,37 @@
+# domain,key,type,value
+# Settings documented at https://macos-defaults.com
+
+# Global
+NSGlobalDomain,KeyRepeat,integer,2
+NSGlobalDomain,InitialKeyRepeat,integer,10
+NSGlobalDomain,AppleActionOnDoubleClick,string,Maximize
+NSGlobalDomain,AppleShowAllExtensions,bool,true
+NSGlobalDomain,NSDocumentSaveNewDocumentsToCloud,bool,false
+NSGlobalDomain,NSToolbarTitleViewRolloverDelay,float,0
+
+# Dock
+com.apple.dock,tilesize,integer,40
+com.apple.dock,show-recents,bool,false
+com.apple.dock,showAppExposeGestureEnabled,bool,true
+com.apple.dock,expose-group-apps,bool,true
+
+# Finder
+com.apple.finder,ShowPathbar,bool,true
+com.apple.finder,FXArrangeGroupViewBy,string,Name
+com.apple.finder,FXDefaultSearchScope,string,SCcf
+com.apple.finder,_FXSortFoldersFirst,bool,true
+com.apple.finder,FXRemoveOldTrashItems,bool,true
+com.apple.finder,FXEnableExtensionChangeWarning,bool,false
+
+# Desktop Services
+com.apple.desktopservices,DSDontWriteNetworkStores,bool,true
+com.apple.desktopservices,DSDontWriteUSBStores,bool,true
+
+# Screenshots
+com.apple.screencapture,location,string,~/Pictures/Screenshots
+
+# Menu Bar
+com.apple.menuextra.clock,Show24Hour,bool,true
+
+# TextEdit
+com.apple.TextEdit,RichText,bool,false

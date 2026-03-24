@@ -1,0 +1,38 @@
+# ------------------------------------------------------------------------------
+# CLIs
+# ------------------------------------------------------------------------------
+brew "git"
+brew "gh" # GitHub
+brew "python"
+brew "pyenv"
+cask "1password-cli"
+brew "node"
+brew "nvm"
+# brew "mas" # Mac App Store
+brew "dockutil"
+brew "duti"
+
+# ------------------------------------------------------------------------------
+# Developer Apps
+# ------------------------------------------------------------------------------
+cask "github" # GitHub Desktop
+cask "visual-studio-code"
+cask "jetbrains-toolbox"
+cask "postman"
+cask "bruno"
+# mas "Xcode", id: 497799835
+
+# ------------------------------------------------------------------------------
+# Productivity Apps
+# ------------------------------------------------------------------------------
+cask "1password"
+cask "claude" # Claude desktop
+cask "claude-code" # Claude CLI
+cask "microsoft-edge"
+cask "obsidian"
+cask "parallels"
+cask "zoom"
+cask "google-chrome"
+cask "windows-app"
+cask "firefox"
+cask "iina"
