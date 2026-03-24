@@ -1,0 +1,14 @@
+# List of apps to add to the front of the dock if not present (top = first):
+# - Names without "/" are assumed to be in /Applications/{name}.app
+# - Full paths can be used for apps outside /Applications/
+Microsoft Edge
+Microsoft Teams
+Microsoft Outlook
+Obsidian
+Claude
+1Password
+GitHub Desktop
+Visual Studio Code
+Windows App
+Citrix Workspace
+zoom.us

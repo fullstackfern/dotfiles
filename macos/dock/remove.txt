@@ -1,0 +1,23 @@
+# List of apps to remove from the dock if present:
+# - Names without "/" are assumed to be in /Applications/{name}.app
+# - Full paths can be used for apps outside /Applications/
+App Store
+Calendar
+Contacts
+Games
+iPhone Mirroring
+Keynote
+Mail
+Maps
+Messages
+Microsoft Excel
+Microsoft PowerPoint
+Notes
+Numbers
+Pages
+Phone
+Photos
+Reminders
+Safari
+System Settings
+TV
