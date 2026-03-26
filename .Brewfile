@@ -8,6 +8,7 @@ brew "pyenv"
 cask "1password-cli"
 brew "node"
 brew "nvm"
+cask "dotnet-sdk"
 # brew "mas" # Mac App Store
 brew "dockutil"
 brew "duti"
