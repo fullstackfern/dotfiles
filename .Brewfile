@@ -9,6 +9,7 @@ cask "1password-cli"
 brew "node"
 brew "nvm"
 cask "dotnet-sdk"
+cask "dotnet-sdk@8"
 # brew "mas" # Mac App Store
 brew "dockutil"
 brew "duti"
@@ -28,6 +29,7 @@ cask "visual-studio-code"
 cask "jetbrains-toolbox"
 cask "postman"
 cask "bruno"
+cask "qlmarkdown"
 # mas "Xcode", id: 497799835
 
 # ------------------------------------------------------------------------------
@@ -44,6 +46,7 @@ cask "google-chrome"
 cask "windows-app"
 cask "firefox"
 cask "iina"
+cask "raycast"
 
 # ------------------------------------------------------------------------------
 # Fonts
