@@ -7,6 +7,9 @@
 .AppleDouble
 .LSOverride
 
+# Temporary Claude config
+**/.claude/
+
 # Secrets & credentials
 *.pem
 *.key
