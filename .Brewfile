@@ -18,6 +18,7 @@ brew "fd"
 brew "starship"
 brew "zsh-syntax-highlighting"
 brew "zsh-autosuggestions"
+brew "colordiff"
 
 # ------------------------------------------------------------------------------
 # Developer Apps

@@ -14,3 +14,4 @@ zstyle ':completion:*' matcher-list 'm:{a-z}={A-Z} m:{A-Z}={a-z}'
 
 source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+alias diff='colordiff -y'
