@@ -10,6 +10,8 @@ alias find="fd"
 alias dev="cd ~/Developer"
 
 autoload -Uz compinit && compinit
+
+[[ -f ~/.env ]] && source ~/.env
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Z} m:{A-Z}={a-z}'
 
 source $(brew --prefix)/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
