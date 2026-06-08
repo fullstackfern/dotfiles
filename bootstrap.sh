@@ -174,3 +174,9 @@ if [[ "$dock_changed" == true ]]; then
   killall Dock
   success "Dock configured."
 fi
+
+# Global gitignore ---------------------------------------------------------------
+if [[ -f "$HOME/.gitignore" ]]; then
+  git config --global core.excludesFile ~/.gitignore
+  success "Global gitignore configured."
+fi
